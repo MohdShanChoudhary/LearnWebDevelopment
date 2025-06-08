@@ -1,0 +1,66 @@
+type of css 
+1 inline 
+2 enternal 
+3 interanl 
+
+
+
+✅ 1. Text and Font
+Property	Example
+color	color: red;
+font-size	font-size: 16px;
+font-family	font-family: Arial;
+font-weight	font-weight: bold;
+font-style	font-style: italic;
+text-align	text-align: center;
+text-decoration	text-decoration: underline;
+line-height	line-height: 1.5;
+letter-spacing	letter-spacing: 2px;
+word-spacing	word-spacing: 4px;
+
+✅ 2. Box Model (Spacing)
+Property	Example
+margin	margin: 10px;
+padding	padding: 20px;
+border	border: 1px solid black;
+width	width: 100px;
+height	height: 50px;
+
+✅ 3. Background and Color
+Property	Example
+background-color	background-color: yellow;
+background-image	background-image: url('img.png');
+background-size	background-size: cover;
+opacity	opacity: 0.5;
+
+✅ 4. Display and Position
+Property	Example
+display	display: flex;
+position	position: absolute;
+top, left, etc.	top: 10px; left: 20px;
+z-index	z-index: 1;
+float	float: right;
+clear	clear: both;
+
+✅ 5. Flexbox and Grid
+Property	Example
+display: flex	display: flex;
+justify-content	justify-content: center;
+align-items	align-items: center;
+flex-direction	flex-direction: row;
+display: grid	display: grid;
+grid-template-columns	grid-template-columns: 1fr 1fr;
+
+✅ 6. Transitions and Animations
+Property	Example
+transition	transition: all 0.3s;
+transform	transform: rotate(45deg);
+animation	animation: move 2s infinite;
+
+✅ 7. Miscellaneous
+Property	Example
+cursor	cursor: pointer;
+overflow	overflow: scroll;
+visibility	visibility: hidden;
+box-shadow	box-shadow: 2px 2px 5px gray;
+text-shadow	text-shadow: 1px 1px black;

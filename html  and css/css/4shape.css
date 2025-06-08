@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    display: flex;
+    
+  
+}
+.shape{
+    height:200px;
+    width: 200px;
+    background-color: red;
+    border: solid;
+margin: 20px;
+}
+body{  display: flex;
+
+    justify-content: center;
+    align-items: center;
+}
+#circle{
+background-color: aquamarine;
+border-radius: 50%;
+}
+
+#dimond{
+    margin-top: 25%;
+    rotate: 45deg;
+    background-color: yellowgreen;
+}
+#dimond:hover{
+    background-color: black;
+}

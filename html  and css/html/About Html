@@ -1,0 +1,124 @@
+.
+
+🧱 1. HTML Document Structure
+html
+Copy
+Edit
+<!DOCTYPE html>     <!-- Defines the HTML version -->
+<html>              <!-- Root element -->
+  <head>            <!-- Metadata container -->
+    <title>         <!-- Title shown in browser tab -->
+    <meta>          <!-- Meta info like charset, viewport -->
+    <link>          <!-- Link to CSS or favicon -->
+    <style>         <!-- Internal CSS -->
+    <script>        <!-- JavaScript code -->
+  </head>
+  <body>            <!-- Content visible on webpage -->
+  </body>
+</html>
+📑 2. Text Content & Headings
+html
+Copy
+Edit
+<h1> to <h6>       <!-- Headings (H1 = biggest, H6 = smallest) -->
+<p>                <!-- Paragraph -->
+<br>               <!-- Line break -->
+<hr>               <!-- Horizontal rule -->
+<pre>              <!-- Preformatted text -->
+<blockquote>       <!-- Quoted text -->
+<abbr>             <!-- Abbreviation -->
+<address>          <!-- Address -->
+<b>, <strong>      <!-- Bold text -->
+<i>, <em>          <!-- Italic text -->
+<u>                <!-- Underlined text -->
+<mark>             <!-- Highlighted text -->
+<small>            <!-- Smaller text -->
+<sup>, <sub>       <!-- Superscript, subscript -->
+<code>, <kbd>      <!-- Code and keyboard input -->
+🔗 3. Links & Navigation
+html
+Copy
+Edit
+<a>                <!-- Anchor (link) -->
+<nav>              <!-- Navigation section -->
+🖼️ 4. Images & Media
+html
+Copy
+Edit
+<img>              <!-- Image -->
+<figure>, <figcaption> <!-- Image + caption -->
+<audio>, <video>   <!-- Audio and Video -->
+<source>           <!-- Source for audio/video -->
+<track>            <!-- Subtitles for media -->
+📋 5. Lists
+html
+Copy
+Edit
+<ul>               <!-- Unordered list -->
+<ol>               <!-- Ordered list -->
+<li>               <!-- List item -->
+<dl>               <!-- Definition list -->
+<dt>, <dd>         <!-- Term and description -->
+📦 6. Containers & Layout
+html
+Copy
+Edit
+<div>              <!-- Division/block -->
+<span>             <!-- Inline container -->
+<header>           <!-- Page or section header -->
+<footer>           <!-- Page or section footer -->
+<section>          <!-- Document section -->
+<article>          <!-- Independent content -->
+<aside>            <!-- Sidebar content -->
+<main>             <!-- Main content area -->
+📥 7. Forms & Inputs
+html
+Copy
+Edit
+<form>             <!-- Form element -->
+<input>            <!-- Input field -->
+<textarea>         <!-- Multi-line input -->
+<select>, <option> <!-- Dropdown list -->
+<optgroup>         <!-- Group in dropdown -->
+<button>           <!-- Button -->
+<label>            <!-- Label for input -->
+<fieldset>, <legend> <!-- Group form inputs -->
+<datalist>         <!-- Suggestions for input -->
+<output>           <!-- Output from script or calculation -->
+📊 8. Tables
+html
+Copy
+Edit
+<table>            <!-- Table -->
+<tr>               <!-- Table row -->
+<th>               <!-- Table header -->
+<td>               <!-- Table data -->
+<thead>, <tbody>, <tfoot> <!-- Table sections -->
+<caption>          <!-- Table title -->
+<col>, <colgroup>  <!-- Column formatting -->
+⚙️ 9. Scripting & Data
+html
+Copy
+Edit
+<script>           <!-- JavaScript -->
+<noscript>         <!-- If JS is disabled -->
+<template>         <!-- Hidden template -->
+<canvas>           <!-- Graphics via JS -->
+<svg>              <!-- Scalable vector graphics -->
+<math>             <!-- MathML for formulas -->
+🔐 10. Metadata (Inside <head>)
+html
+Copy
+Edit
+<meta>             <!-- Metadata -->
+<title>            <!-- Page title -->
+<base>             <!-- Base URL -->
+<link>             <!-- Link to CSS, favicon -->
+<style>            <!-- Internal CSS -->
+✅ Bonus: Semantic Tags
+These describe the meaning of content:
+
+html
+Copy
+Edit
+<header>, <footer>, <main>, <nav>, <article>, <section>, <aside>, <figure>, <figcaption>
