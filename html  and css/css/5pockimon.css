@@ -1,0 +1,76 @@
+*{
+    margin: 0%;
+    padding:0%;
+
+}
+html,body{
+    height: 100%;
+    width:100%;
+}
+body{
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+div{
+
+    height: 200px;
+    width: 150px;
+    position: absolute;
+
+    margin: 10px;
+    border-radius: 7%;
+    border:solid;
+}
+#one{
+    background-color: salmon;
+rotate: 18deg;
+z-index: 8;
+
+}
+#two{
+rotate: 12deg;
+background-color: red;
+z-index: 6;
+
+}
+#three{
+    rotate: 6deg;
+    background-color: blue;
+z-index: 4;
+
+
+}
+#four{
+        background-color: yellow;
+z-index: 2;
+    
+}
+
+
+#one:hover{
+z-index: 20;
+}
+#two:hover{
+z-index: 20;
+
+}
+#three:hover{
+z-index: 20;
+
+}
+#four:hover{
+z-index: 20;
+    
+}
