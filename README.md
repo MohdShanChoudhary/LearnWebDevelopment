@@ -1,14 +1,13 @@
-# First
-First 
-MY NAME IS MOHAMAD SHAN CHOUDHARY 
-
-![alt text](<UNIT 1/HTML AND CSS/image.png>)
-
-
-Banking UI 
-![alt text](image.png)
-
+# mohd shan 
 
 1) Admin Dashboard Image 
-![alt text](<UNIT 1/HTML AND CSS/image.png>)
+![alt text](<UNIT 1/HTML AND CSS/1/image.png>)
+
+
+
+
+2) Banking UI 
+![alt text](<UNIT 1/HTML AND CSS/2/image.png>)
+
+
 
